@@ -1,2 +1,3 @@
-# Django_study
-hoge
+# Django_HelloWorrld
+
+Pythonにより実装されているウェブフレームワークであるDjangoの初歩的な内容を実装を通し学習を行なっている
